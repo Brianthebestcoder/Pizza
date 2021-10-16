@@ -1,5 +1,5 @@
 import time
-password = "ayushWazHere"
+password = "brianWazhere"
 wait_count = 2
 print ("enter password")
 inp = str(input())
