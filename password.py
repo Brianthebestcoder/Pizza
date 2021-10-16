@@ -1,5 +1,5 @@
 import time
-password = "robertthebuilder1230"
+password = "ayushWazHere"
 wait_count = 2
 print ("enter password")
 inp = str(input())
@@ -12,6 +12,7 @@ while inp != password:
     wait_count = wait_count * wait_count
 print ("Access granted")
 time.sleep(30)
+
 
 
 
